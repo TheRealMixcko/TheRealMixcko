@@ -23,3 +23,5 @@ I'm a passionate **developer** with a focus on building efficient, scalable, and
 
 ### Thanks for stopping by! 🚀
 
+![Profile Picture](https://i.pinimg.com/736x/d5/6e/67/d56e67917523cfa69d497de32fd698f5.jpg)
+
