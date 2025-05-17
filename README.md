@@ -4,7 +4,7 @@
 I'm a passionate **developer** with a focus on building efficient, scalable, and user-friendly applications. I enjoy solving complex problems and continuously learning new technologies.
 
 ## 💻 Tech Stack
-- **Languages:** JavaScript, Python, TypeScript, C++, CSS, HTML
+- **Languages:** JavaScript, Python, CSS, HTML
 - **Frameworks & Libraries:** React, Node.js, Express, Django, Flask
 - **Databases:** PostgreSQL, MongoDB, Firebase
 - **DevOps & Tools:** Docker, Git, GitHub Actions, AWS, CI/CD
@@ -19,7 +19,6 @@ I'm a passionate **developer** with a focus on building efficient, scalable, and
 ## 📫 Get in Touch
 - **Email:** officialshayan2025@gmail.com
 - **Discord:** mixckox
-- **Twitter:** [@MixckoDev]([https://twitter.com/yourhandle](https://x.com/MixckoDev))
 
 ### Thanks for stopping by! 🚀
 
